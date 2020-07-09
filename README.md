@@ -1,4 +1,5 @@
 # MLHLocalHackDay2019
+(Note: Files in this repo were transferred from our Swarthmore Github accounts to personal non-Swarthmore affiliated Github accounts)
 
 Developers: Rebecca Lin, Sarah Chang, Alice Huang, Jacquelyn Chow
 
