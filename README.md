@@ -1,7 +1,7 @@
 # MLHLocalHackDay2019 - BudgeLit
 
 (Note: Files in this repo were transferred from our Swarthmore Github accounts to personal non-Swarthmore affiliated Github accounts)
-
+(Second note: newer version of this project (continued by Jacquelyn and Alice) at https://github.com/aliceshuang3/meal_plan_grapher)
 Developers: Rebecca Lin, Sarah Chang, Alice Huang, Jacquelyn Chow
 
 Project Description:
